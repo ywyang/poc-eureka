@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Dec 13 13:33:24 CST 2019
+@default-mvn.services.apps-http\://mvn.services.apps/repository/maven-public/.lastUpdated=1576215204388
+http\://mvn.services.apps/repository/maven-public/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-parent\:pom\:2.1.6.RELEASE from/to mvn.services.apps (http\://mvn.services.apps/repository/maven-public/)\: mvn.services.apps\: nodename nor servname provided, or not known
